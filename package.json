@@ -1,0 +1,12 @@
+{
+  "name": "web-crawler",
+  "version": "1.0",
+  "description": "Basic web crawler written using JavaScript",
+  "main": "web-crawler.js",
+  "author": "Gopinath",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0",
+    "url-parse": "^1.1.1"
+  }
+}
