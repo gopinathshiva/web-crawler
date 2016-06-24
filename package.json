@@ -1,6 +1,6 @@
 {
   "name": "web-crawler",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Basic web crawler written using JavaScript",
   "main": "web-crawler.js",
   "author": "Gopinath",
